@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<boundle>
+  <frequency>1500</frequency>
+  <channels>
+    <channel number="1">
+      <amplification>0</amplification>
+    </channel>
+    <channel number="2">
+      <amplification>0</amplification>
+    </channel>
+  </channels>
+</boundle>

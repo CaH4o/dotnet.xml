@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<bundle>
+  <frequency>1500</frequency>
+  <channels>
+    <channel number="1">
+      <amplification>0</amplification>
+      <max>1.51</max>
+      <min>0</min>
+    </channel>
+    <channel number="2">
+      <amplification>0</amplification>
+      <max>1.115</max>
+      <min>0.001</min>
+    </channel>
+  </channels>
+</bundle>

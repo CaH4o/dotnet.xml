@@ -1,0 +1,36 @@
+C:\Users\student\source\repos\CS_XML (1)\CS_XML\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\E14-440FileViewer.NET.exe.config
+C:\Users\student\source\repos\CS_XML (1)\CS_XML\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\E14-440FileViewer.NET.exe
+C:\Users\student\source\repos\CS_XML (1)\CS_XML\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\E14-440FileViewer.NET.pdb
+C:\Users\student\source\repos\CS_XML (1)\CS_XML\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Castle.Core.dll
+C:\Users\student\source\repos\CS_XML (1)\CS_XML\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Moq.dll
+C:\Users\student\source\repos\CS_XML (1)\CS_XML\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Castle.Core.xml
+C:\Users\student\source\repos\CS_XML (1)\CS_XML\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Moq.xml
+C:\Users\student\source\repos\CS_XML (1)\CS_XML\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.csprojResolveAssemblyReference.cache
+C:\Users\student\source\repos\CS_XML (1)\CS_XML\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\CS_XML (1)\CS_XML\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.csproj.CopyComplete
+C:\Users\student\source\repos\CS_XML (1)\CS_XML\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.exe
+C:\Users\student\source\repos\CS_XML (1)\CS_XML\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.pdb
+E:\CA (Step)\3 XML\2 Lessons\Lesson 4 (14.07.2019)\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\E14-440FileViewer.NET.exe.config
+E:\CA (Step)\3 XML\2 Lessons\Lesson 4 (14.07.2019)\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\E14-440FileViewer.NET.exe
+E:\CA (Step)\3 XML\2 Lessons\Lesson 4 (14.07.2019)\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\E14-440FileViewer.NET.pdb
+E:\CA (Step)\3 XML\2 Lessons\Lesson 4 (14.07.2019)\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Castle.Core.dll
+E:\CA (Step)\3 XML\2 Lessons\Lesson 4 (14.07.2019)\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Moq.dll
+E:\CA (Step)\3 XML\2 Lessons\Lesson 4 (14.07.2019)\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Castle.Core.xml
+E:\CA (Step)\3 XML\2 Lessons\Lesson 4 (14.07.2019)\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Moq.xml
+E:\CA (Step)\3 XML\2 Lessons\Lesson 4 (14.07.2019)\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.csprojAssemblyReference.cache
+E:\CA (Step)\3 XML\2 Lessons\Lesson 4 (14.07.2019)\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.csproj.CoreCompileInputs.cache
+E:\CA (Step)\3 XML\2 Lessons\Lesson 4 (14.07.2019)\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.csproj.CopyComplete
+E:\CA (Step)\3 XML\2 Lessons\Lesson 4 (14.07.2019)\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.exe
+E:\CA (Step)\3 XML\2 Lessons\Lesson 4 (14.07.2019)\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.pdb
+W:\Git\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\E14-440FileViewer.NET.exe.config
+W:\Git\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\E14-440FileViewer.NET.exe
+W:\Git\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\E14-440FileViewer.NET.pdb
+W:\Git\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Castle.Core.dll
+W:\Git\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Moq.dll
+W:\Git\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Castle.Core.xml
+W:\Git\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Moq.xml
+W:\Git\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.csprojAssemblyReference.cache
+W:\Git\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.csproj.CoreCompileInputs.cache
+W:\Git\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.csproj.CopyComplete
+W:\Git\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.exe
+W:\Git\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.pdb
